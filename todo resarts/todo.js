@@ -1,6 +1,5 @@
 let input = document.getElementById("input-area");
 
-// let btnaction = document.getElementById("btn");
 let task = document.getElementById("task");
 
 function btnact() {
