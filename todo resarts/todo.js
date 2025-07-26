@@ -16,7 +16,7 @@ function btnact() {
     li.appendChild(dle);
 
     dle.addEventListener("click", () => {
-      li.remove(); // 👈 removes the entire <li> (and the button inside it)
+      li.remove();
     });
     input.value = "";
   }
