@@ -1,2 +1,2 @@
 # JAVA-SCRIPT-PRJ
-Started with basic JavaScript knowledge and learned by copying and coding along with GreetStack tutorial videos
+I learned JavaScript by practicing, experimenting, and sometimes referencing or recreating code from GreetStack tutorials.
